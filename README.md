@@ -30,7 +30,7 @@ and preparing a visual summary report for HR leadership.
 1. Implement promotion milestone reviews at years 2-3 before employees 
    reach the danger zone
 2. Urgently engage the early 2023 promotion cohort, highest flight risk 
-   at 45–47% attrition
+   at 45-47% attrition
 3. Address the B performer recognition gap with a mid-tier development 
    program
 4. Build an Analyst career pathway, least satisfied position at 2.70
